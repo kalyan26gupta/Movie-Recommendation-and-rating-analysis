@@ -153,4 +153,4 @@ def recommend():
 
 
 if __name__ == '__main__':
-    app.run(host="0.0.0.0",port=65850)
+    app.run(host="0.0.0.0",port=6580,debug='true')
