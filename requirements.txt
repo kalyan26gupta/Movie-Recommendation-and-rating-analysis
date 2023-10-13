@@ -6,7 +6,10 @@ Werkzeug
 numpy
 scipy
 nltk
+uvicorn
+fastapi
 scikit-learn
+streamlit
 pandas
 beautifulsoup4
 jsonschema
